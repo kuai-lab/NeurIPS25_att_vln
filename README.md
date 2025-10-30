@@ -22,7 +22,7 @@ That includes:
 ```bash
 cd map_nav_src
 bash scripts/run_reverie_atena.sh   # (or run_r2r_atena.sh)
-
+```
 
 ## Citation
 
@@ -33,3 +33,4 @@ bash scripts/run_reverie_atena.sh   # (or run_r2r_atena.sh)
   journal = {arXiv preprint arXiv:2506.06630},
   year    = {2025}
 }
+```
