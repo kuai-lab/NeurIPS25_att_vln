@@ -6,7 +6,7 @@ a framework designed to improve navigation robustness and adaptability under uns
 ![framework](files/main_figure.png)
 
 
-## ⚙️ Requirements
+## Requirements
 
 Please follow the **environment setup and dataset preparation steps** from the original [VLN-DUET repository](https://github.com/cshizhe/VLN-DUET).
 
@@ -16,7 +16,7 @@ That includes:
 - Downloading the **datasets and pretrained models** as described in the VLN-DUET instructions
 
 
-## 🚀 Test-time Adaptation & Evaluation
+## Evaluation
 
 
 ```bash
@@ -24,6 +24,7 @@ cd map_nav_src
 bash scripts/run_reverie_atena.sh   # (or run_r2r_atena.sh)
 
 
+## Citation
 
 ```bibtex
 @article{ko2025atvln,
@@ -32,4 +33,3 @@ bash scripts/run_reverie_atena.sh   # (or run_r2r_atena.sh)
   journal = {arXiv preprint arXiv:2506.06630},
   year    = {2025}
 }
->>>>>>> 8d78ab1 (Initial ATENA commit)
