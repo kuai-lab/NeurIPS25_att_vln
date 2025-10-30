@@ -27,10 +27,10 @@ bash scripts/run_reverie_atena.sh   # (or run_r2r_atena.sh)
 ## Citation
 
 ```bibtex
-@article{ko2025atvln,
-  title   = {Active Test-time Vision-Language Navigation},
-  author  = {Ko, Heeju and Kim, Sungjune and Oh, Gyeongrok and Yoon, Jeongyoon and Lee, Honglak and Jang, Sujin and Kim, Seungryong and Kim, Sangpil},
-  journal = {arXiv preprint arXiv:2506.06630},
-  year    = {2025}
+@article{ko2025active,
+  title={Active Test-time Vision-Language Navigation},
+  author={Ko, Heeju and Kim, Sungjune and Oh, Gyeongrok and Yoon, Jeongyoon and Lee, Honglak and Jang, Sujin and Kim, Seungryong and Kim, Sangpil},
+  journal={arXiv preprint arXiv:2506.06630},
+  year={2025}
 }
 ```
