@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# nerips25_att_vln
-=======
 # Active Test-time Vision-Language Navigation
 
 This repository contains the official implementation of **Active Test-time Vision-Language Navigation (ATENA)**, 
