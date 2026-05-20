@@ -94,10 +94,12 @@ CUDA_VISIBLE_DEVICES=0 bash run_r2r/main.bash eval 2333  # evaluation
 ## Citation
 
 ```bibtex
-@article{ko2025active,
-  title={Active Test-time Vision-Language Navigation},
-  author={Ko, Heeju and Kim, Sungjune and Oh, Gyeongrok and Yoon, Jeongyoon and Lee, Honglak and Jang, Sujin and Kim, Seungryong and Kim, Sangpil},
-  journal={arXiv preprint arXiv:2506.06630},
-  year={2025}
+@article{ko2026active,
+  title={Active test-time vision-language navigation},
+  author={Ko, Heeju and Kim, Sung June and Oh, Gyeongrok and Yoon, Jeongyoon and Lee, Honglak and Jang, Sujin and Kim, Seungryong and Kim, Sangpil},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={44756--44775},
+  year={2026}
 }
 ```
